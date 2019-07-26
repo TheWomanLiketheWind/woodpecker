@@ -1,0 +1,3 @@
+const fileObject = {
+  navigeList: [{ name: '' }]
+}
